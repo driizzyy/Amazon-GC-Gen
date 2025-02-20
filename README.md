@@ -5,5 +5,4 @@ This is a simple Amazon Gift Card Generator that generates thousands of gift car
 Just run the start.bat file and start generating codes now
 
 DISCLAIMER: THIS TOOL MAY NOT GENERATE ACTIVE, WORKING CODES AS THAT IS ILLEGAL. BEWARE USING THIS SOFTWARE!!
-
-Support: https://discord.gg/driizzyy-boosts
+I ALSO DO NOT OFFER SUPPORT FOR THIS TOOL!
